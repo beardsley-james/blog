@@ -23,4 +23,4 @@ title: Twitch JSON freeCodeCamp Project
 - I think I'm going to try using Jade and maybe Sass on this too because I want to learn to use those so I can work on backend stuff a little better.
 
 
-[1] http://www.svgeneration.com/
+[1]: http://www.svgeneration.com/
