@@ -9,7 +9,8 @@ permalink:        pretty
 title:            James Beardsley
 tagline:          'A Jekyll theme'
 description:      ''
-url:              http://beardsley-james.github.io/blog/
+baseurl:          http://beardsley-james.github.io/blog
+url:              http://beardsley-james.github.io/blog
 
 author:
   name:           'James Beardsley'
