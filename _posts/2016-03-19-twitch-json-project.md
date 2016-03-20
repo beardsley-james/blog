@@ -21,6 +21,7 @@ title: Twitch JSON freeCodeCamp Project
 - Ah yeah construction paper theme I can get on this, it's going to look like South Park.
 - Alright maybe I should get some jQuery UI stuff in there too so that the boxes are kind of bouncing around a little bit.
 - I think I'm going to try using Jade and maybe Sass on this too because I want to learn to use those so I can work on backend stuff a little better.
+- Alright maybe not Sass but at least Jade.
 
 
 [1]: http://www.svgeneration.com/
