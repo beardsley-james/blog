@@ -3,7 +3,7 @@ layout: post
 title: Nonogram Generator
 ---
 
-[![Nonogram screenshot](./public/images/nonogram_generator.jpg)]
+[![Nonogram screenshot]({{ site.basurl }}/public/images/nonogram_generator.jpg)]
 (http://beardsley-james.github.io/griddler2/)
 
 The Nonogram generator is my biggest project to date, and the one I've got the most significant plans for.
