@@ -5,5 +5,5 @@ title: Portfolio
 
 ## Nonogram
 
-[![Nonogram screenshot](http://beardsley-james.github.io/images/imagefolder/profilepic.png)]
+[![Nonogram screenshot](.\public\images\nonogram_generator.jpg)]
 (http://beardsley-james.github.io/griddler2/)
