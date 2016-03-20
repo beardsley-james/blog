@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            James Beardsley
+tagline:          'A Jekyll theme'
+description:      ''
+url:              http://hyde.getpoole.com
+
+author:
+  name:           'James Beardsley'
+  url:            https://beardsley-james.github.io
+  email:          beards18@gmail.com
+
+paginate:         5
+gems:             [jekyll-paginate]
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/poole/hyde
