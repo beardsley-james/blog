@@ -9,11 +9,11 @@ permalink:        pretty
 title:            James Beardsley
 tagline:          'A Jekyll theme'
 description:      ''
-url:              http://hyde.getpoole.com
+url:              http://beardsley-james.github.io/blog/
 
 author:
   name:           'James Beardsley'
-  url:            https://beardsley-james.github.io/blog/
+  url:            https://beardsley-james.github.io/
   email:          beards18@gmail.com
 
 paginate:         5
