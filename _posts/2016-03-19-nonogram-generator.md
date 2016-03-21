@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nonogram Generator
+categories: [projects, nonogram, codepen, javascript]
 ---
 
 [![Nonogram screenshot]({{ site.baseurl }}/public/images/nonogram_generator.jpg)]
