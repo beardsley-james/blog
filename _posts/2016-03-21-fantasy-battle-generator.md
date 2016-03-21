@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Fantasy Battle Generator
-categories: [projects, codepen, javascript, fantasybattle]
+categories: [projects]
+tags: [projects, codepen, javascript, fantasybattle]
 ---
 
 Like, I'm sure, many of my readers, I frequently read 300 page rulebooks for games I never intend on playing simply for the pleasure of studying irrelevant minutiae. In the course of reading the latest version of [Warhammer Fantasy Roleplay][1], a really gritty and fun roleplaying game for people that have a keen dislike for the characters they're roleplaying, I found myself wondering how some of the combat mechanics might play out if they were automated.

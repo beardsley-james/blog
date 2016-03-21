@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Twitch JSON freeCodeCamp Project
-categories: [freecodecamp, javascript, twitchtv]
+categories: [freecodecamp]
+tags: [freecodecamp, javascript, twitchtv]
 ---
 
 ##Project goals:
