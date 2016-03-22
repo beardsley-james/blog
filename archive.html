@@ -1,0 +1,10 @@
+---
+layout: page
+title: Archive
+---
+
+<ul>
+	{% for post in site.posts %}
+		<li><em><a href="{{page.baseurl}}{{post.url}}">{{ post.title }}</a></em> - {{ post.date | date_to_string }}</li>
+	{% endfor %}	
+</ul>

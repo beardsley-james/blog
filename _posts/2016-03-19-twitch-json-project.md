@@ -5,7 +5,7 @@ categories: [freecodecamp]
 tags: [freecodecamp, javascript, twitchtv]
 ---
 
-##Project goals:
+## Project goals:
 
 - Objective: Build a CodePen.io app that is functionally similar to this: <http://codepen.io/FreeCodeCamp/full/adBpOw>.
 - User Story: I can see whether Free Code Camp is currently streaming on Twitch.tv.
@@ -13,7 +13,7 @@ tags: [freecodecamp, javascript, twitchtv]
 - User Story: if a Twitch user is currently streaming, I can see additional details about what they are streaming.
 - User Story: I will see a placeholder notification if a streamer has closed their Twitch account (or the account never existed). You can verify this works by adding brunofin and comster404 to your array of Twitch streamers.
 
-##Personal challenges:
+## Personal challenges:
 
 - Change the layout to something more interesting than just an instant messenger user list. As uninterested in I am in watching someone else code, people apparently are into it. I'm thinking something where the unbroadcast channels kind of fade out and drop back out of notice, but they should still be present.
 - Simple, relevant color scheme. This isn't always my strong point right now but it's something I could stand to get better at. I like the way my Hyde blog looks, just the one color with white space thing. I'm more typographic with my design anyway, but it's not in vogue so I think I tend to try to fit more standard current design paradigms and I'm not sure it's helping me any.

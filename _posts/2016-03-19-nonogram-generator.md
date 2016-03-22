@@ -5,8 +5,7 @@ categories: [projects]
 tags: [projects, nonogram, codepen, javascript]
 ---
 
-[![Nonogram screenshot]({{ site.baseurl }}/public/images/nonogram_generator.jpg)]
-(http://beardsley-james.github.io/griddler2/)
+[![Nonogram screenshot]({{ site.baseurl }}/public/images/nonogram_generator.jpg)](http://beardsley-james.github.io/griddler2/)
 
 The Nonogram generator is my biggest project to date, and the one I've got the most significant plans for.
 

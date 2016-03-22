@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            James Beardsley
-tagline:          'A Jekyll theme'
+tagline:          'One cool customer'
 description:      ''
 baseurl:          http://beardsley-james.github.io/blog
 url:              http://beardsley-james.github.io/blog
@@ -24,4 +24,4 @@ gems:             [jekyll-paginate]
 version:          0.0.1
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/beardsley-james/blog
