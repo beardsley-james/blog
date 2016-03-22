@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<div class="project">
+	<a href="{{ page.link }}"><h1 class="project-title">{{ page.title }}</h1></a>
+	{% if page.preview %}
+		<img src="{{ page.preview }}" class="project-preview">
+	{% endif %}
+	{{ content }}
+</div>

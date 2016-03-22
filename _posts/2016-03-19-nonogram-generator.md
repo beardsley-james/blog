@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nonogram Generator
-categories: [projects]
+categories: [javascript]
 tags: [projects, nonogram, codepen, javascript]
 ---
 

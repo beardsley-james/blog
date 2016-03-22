@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Fantasy Battle Generator
-categories: [projects]
+categories: [javascript]
 tags: [projects, codepen, javascript, fantasybattle]
 ---
 

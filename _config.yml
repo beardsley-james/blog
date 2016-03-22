@@ -11,6 +11,9 @@ tagline:          'One cool customer'
 description:      ''
 baseurl:          http://beardsley-james.github.io/blog
 url:              http://beardsley-james.github.io/blog
+collections:      
+  projects:
+    output: true
 
 author:
   name:           'James Beardsley'
