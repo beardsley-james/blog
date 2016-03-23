@@ -4,8 +4,26 @@ layout: default
 
 <div class="project">
 	<a href="{{ page.link }}"><h1 class="project-title">{{ page.title }}</h1></a>
+	{% if page.completed %}
+		<h2 class="project-completed">Completed {{ page.completed }}</h2>
+	{% else %}
+		<h2 class="project-completed">Work in Progress</h2>
+	{% endif %}
 	{% if page.preview %}
-		<img src="{{ page.preview }}" class="project-preview">
+		<img src="{{ site.baseurl }}{{ page.preview }}" class="project-preview">
 	{% endif %}
 	{{ content }}
+	
+	{% assign associated = {{page.associated}} %}
+	<ul class="associated-posts">
+	{% for post in site.posts %}
+		{% if post.tags contains associated %}
+			<div class="associated-link">
+				<li>
+					<a href="{{ site.baseurl }}{{ post.url }}"><em>{{ post.title }}</em> {{ post.date | date:"%Y-%m-%d" }}</a>
+				</li>
+			</div>
+		{% endif %}
+	{% endfor %}
+	</ul>
 </div>

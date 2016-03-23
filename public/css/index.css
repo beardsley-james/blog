@@ -7,3 +7,7 @@
 	float: right;
 	margin-left: 15px;
 }
+
+.project-preview {
+	max-width: 100%;
+}
