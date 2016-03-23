@@ -6,7 +6,7 @@ title: Projects
 {% for project in site.projects %}
 	<a href="{{ baseurl.site }}{{ project.url }}"><h2 class="project-title">{{ project.title }}</h2></a>
 	{% if project.preview %}
-		<img src="{{ baseurl.site }}{{ project.preview }}" class="project-preview">
+		<img src="{{ site.baseurl }}{{ project.preview }}" class="project-preview">
 	{% endif %}
 	{{ project.description }}
 {% endfor %}
