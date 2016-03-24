@@ -2,9 +2,9 @@
 title: Fantasy Battle Generator
 layout: project
 link: http://beardsley-james.github.io/fantasybattlegenerator
-description: Make two dudes fight each other.
+description: A simple, narrative combat simulator with customizable battlers.
 associated: fantasybattle
 preview: /public/images/fantasybattle.png
 ---
 
-Fantasy Battle Generator is a hardcore fighting simulator where two dudes that you design duke it out until only one dude is left standing.
+The Fantasy Battle Generator is my attempt to simulate the flow of combat in a tabletop roleplaying game, only in a more lonely single-player way with no clear delineation between PC and NPC. It generates strings to output to a combat display based on behind-the-scenes die rolls and the status of the two players. Plans for the future include the concept of range and limited ammunition, with a moderate chance for magical attacks and statuses at some point.
