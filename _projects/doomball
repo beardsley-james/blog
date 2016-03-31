@@ -1,0 +1,10 @@
+---
+title: Doomball
+layout: project
+link: http://beardsley-james.github.io/doomball
+description: A fantasy-sports-battle board game turned video game
+associated: doomball
+preview: /public/images/doomball.png
+---
+
+Doomball is a fast paced high-stakes race to get a dangerous artifact into your enemy's territory. The design is portable, modular, highly customizable, and designed to focus on maneuvering and risk management rather than simple extermination, though you can always play orcs. It started as a home project to design a board game that could be played with scrap paper, but turned into something a bit more involved. After awhile away from it, I've started to build it as an online game, which is one of the possibilities that led me to look
