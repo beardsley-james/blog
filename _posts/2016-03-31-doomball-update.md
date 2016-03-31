@@ -2,7 +2,7 @@
 layout: post
 title: Progress with Doomball
 category: doomball
-tags: [javascript, html, games]
+tags: [doomball, javascript, html, games]
 ---
 
 <img src="{{ site.baseurl }}/public/images/doomball.png" style="width:100%">
