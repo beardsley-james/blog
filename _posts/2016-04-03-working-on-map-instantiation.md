@@ -5,8 +5,9 @@ category: doomball
 tags: [doomball, javascript, games]
 ---
 
+ I've got a function up and running that returns a two dimensional array with space objects that can contain a unit. It can pass the unit to the `renderUnitCard` function and can be easily traversed. Very satisfying.
 
-```javascript
+~~~javascript
 ["......",
  "--..--",
  ".-^--.",
@@ -15,9 +16,7 @@ tags: [doomball, javascript, games]
  ".--^-.",
  "--..--",
  "......"]
- ```
- 
- I've got a function up and running that returns a two dimensional array with space objects that can contain a unit. It can pass the unit to the `renderUnitCard` function and can be easily traversed. Very satisfying.
+~~~
  
  The Space class doesn't need to be any more complicated, it's really just a container though it's one that should have a prototype output method that returns itself as a string, complete with any contained units. The game only allows one real token on the space at any given time which simplifes things. The Token class is going to need a prototype method that returns a string <div> version of itself so that the css can render the unit on top of the card.
  
