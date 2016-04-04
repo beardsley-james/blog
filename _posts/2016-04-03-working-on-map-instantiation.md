@@ -5,6 +5,7 @@ category: doomball
 tags: [doomball, javascript, games]
 ---
 
+
 ```javascript
 ["......",
  "--..--",
