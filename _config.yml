@@ -9,8 +9,8 @@ permalink:        pretty
 title:            James Beardsley
 tagline:          'One cool customer'
 description:      ''
-baseurl:          http://beardsley-james.github.io/blog
-url:              http://beardsley-james.github.io/blog
+baseurl:          https://beardsley-james.github.io/blog
+url:              https://beardsley-james.github.io/blog
 collections:      
   projects:
     output: true
